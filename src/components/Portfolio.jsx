@@ -4,7 +4,7 @@ import python from "../../public/python.webp";
 import django from "../../public/django-logo.png";
 import mongoDB from "../../public/mongodb.jpg";
 import Go from "../../public/Go.png";
-import sqlite from "../../public/sqlite.png";
+import sqlite from "../../public/Sqlite.png";
 import djangorestFramework from "../../public/djangorestframework.png";
 
 
