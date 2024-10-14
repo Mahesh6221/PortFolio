@@ -5,7 +5,7 @@ import About from "./components/About";
 import PortFolio from './components/Portfolio'; 
 import Experience from "./components/Experience";
 import Footer from './components/footer';
-import Contact from "./components/contact";
+import Contact from './components/Contact';
 import { Toaster } from "react-hot-toast";
 
 function App() {
