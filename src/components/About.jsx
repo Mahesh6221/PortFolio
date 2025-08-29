@@ -9,7 +9,7 @@ function About() {
       <div>
         <h1 className="text-3xl font-bold mb-5">About</h1>
         <p>
-          Hello, I'm Mahesh, a passionate Backend Developer with expertise in Django. With a solid background in IT, I strive to create efficient and scalable web applications that deliver impactful solutions and enhance user experiences.
+          Hello, I'm Mahesh, a passionate Backend Developer with expertise in Python. With a solid background in IT, I strive to create efficient and scalable web applications that deliver impactful solutions and enhance user experiences.
         </p>
         <br />
         <h1 className="text-green-600 font-semibold text-xl">
@@ -24,7 +24,7 @@ function About() {
           Skills & Expertise
         </h1>
         <span>
-          Proficient in Python, Django, SqliteDatabase, Go, Mongodb, HTML, CSS, JavaScript. Experienced with MongoDB, Gin Framework, Django.
+          Proficient in Python, Django, SqliteDatabase, Go, MongoDB, HTML, CSS, JavaScript. Experienced with Python, MongoDB, Go, Gin Framework, Django.
           Excellent problem-solving skills. Effective communicator and
           collaborator.
         </span>
