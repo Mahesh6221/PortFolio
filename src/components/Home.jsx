@@ -39,7 +39,7 @@ function Home() {
             </div>
             <br />
             <p className="text-sm md:text-md text-justify">
-              I'm Mahesh Patil, a Backend Developer with expertise in Python, Django, Sqlite Database, Go, MongoDB.
+              I'm Mahesh Patil, a Backend Developer with expertise in Python, Django, SqliteDatabase, Go, MongoDB.
               I love building scalable systems and solving complex problems.
               I'm also passionate about contributing to open-source projects.
               seeking new opportunities, Looking for job.
